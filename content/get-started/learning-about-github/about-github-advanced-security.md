@@ -5,7 +5,7 @@ product: '{% data reusables.gated-features.ghas %}'
 versions:
   fpt: '*'
   ghes: '*'
-  ghae: '*'
+  ghae: '*'.github$reposit.grant/cache.authaccess)
   ghec: '*'
 topics:
   - Security
