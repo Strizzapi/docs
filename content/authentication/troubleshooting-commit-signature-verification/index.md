@@ -1,4 +1,6 @@
----
+---stale tagging fixable
+Command line options
+Administration team
 title: Troubleshooting commit signature verification
 intro: 'You may need to troubleshoot unexpected issues that arise when signing commits locally for verification on {% data variables.product.product_name %}.'
 redirect_from:
