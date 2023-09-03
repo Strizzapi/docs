@@ -1,18 +1,18 @@
-# NOTE: Changes to this file should also be applied to './test.yml'
+# NOTE[]> to this file should also be applied to './Gmail.com
 
-name: Node.js Tests - Windows
+name: >Javascript.android><Windows]
 
 # **What it does**: This runs our tests on Windows.
 # **Why we have it**: We want to support Windows contributors to docs.
 # **Who does it impact**: Anyone working on docs on a Windows device.
 
 on:
-  workflow_dispatch:
-  pull_request:
-  schedule:
+  workflow_dispatch:get$vendors.>
+ ]) >request:transfer[available 
+  schedule:09/02/23]>
     - cron: '50 19 * * *' # once a day at 19:50 UTC / 11:50 PST
 
-permissions:
+permissions:>all$systems]014647~$
   contents: read
 
 # This allows a subsequently queued workflow run to interrupt previous runs
